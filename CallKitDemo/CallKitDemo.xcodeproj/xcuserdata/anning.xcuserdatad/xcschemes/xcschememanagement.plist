@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CallDirectoryExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>CallKitDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>IntentHandler.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>IntentHandlerUI.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4D62784D1F70A41100981E1C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D6BA7E81F6A5C6000B63BB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D6BA8071F6A63A200B63BB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D6BA8111F6A63A200B63BB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4DB3582A1F691BF60005A20C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
